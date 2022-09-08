@@ -1,0 +1,65 @@
+.body{
+    background-color: rgb(255, 255, 255);
+    margin: 0%;
+}
+
+.nextday{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+}
+.academia{
+    margin-left: 40%;
+    margin-right: 40%;
+    font-size: x-large;
+}
+
+.logo{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .navegation ol{
+    list-style-type: none;
+    display: flex;
+    }
+    
+    
+    .navegation{
+    background-color: #3c3c3c;
+    height: 15vh;
+    color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    }
+    
+    .navegation ol li{
+    padding-right: 120px;
+    margin-left: 50px;
+    }
+    
+    .navegation .lista{
+    margin-top: 8px;
+    }
+    
+    .navegation ol li:hover{
+    color: darkorange;
+    cursor: pointer;
+    }
+
+
+    .HistoriaImg{
+        display: flex;
+        background-color: darkorange;
+
+    }
+    .HISTORIA{
+        font-size: x-large;
+    }
+    .copy{
+        text-align: center;
+        background-color: darkorange;
+    }
